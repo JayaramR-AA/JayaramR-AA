@@ -37,6 +37,7 @@ Full stack developer experienced in creating enterprise-grade software solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="24" alt="Kotlin" title="Kotlin" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="Node.js" title="Node.js" />
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="24" alt="Databricks" title="Databricks" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dynatrace.svg" height="24" alt="Dynatrace" title="Dynatrace" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="24" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" title="Python" />
@@ -52,6 +53,10 @@ Full stack developer experienced in creating enterprise-grade software solutions
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/oracle.svg" height="24" alt="Oracle" title="Oracle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="SQL" title="SQL" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="24" alt="Figma" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="24" alt="Grafana" title="Grafana" />
+<img src="https://cdn.simpleicons.org/jfrog/41BF47" height="24" alt="Artifactory (JFrog)" title="Artifactory (JFrog)" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="24" alt="SonarQube" title="SonarQube" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" alt="GitHub" title="GitHub" />
 </p>
 
 ---
