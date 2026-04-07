@@ -71,6 +71,13 @@ Current focus :  **AI-powered airline baggage platform services**.
 - Applying AI to improve operational workflows, reliability, and customer experience
 - Building event-driven, enterprise-grade systems on Azure
 
+
+<img
+  src="https://streak-stats.demolab.com?user=JayaramR-AA"
+  height="180"
+  alt="GitHub Streak"
+  title="GitHub Streak"
+/>
 ---
 
 ## Featured Projects
