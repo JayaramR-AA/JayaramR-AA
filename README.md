@@ -27,11 +27,11 @@ Full stack developer experienced in creating enterprise-grade software solutions
 
 ## Featured Projects
 
-Pin a few repositories you’re most proud of to show up here (recommended: 3–6).  
-You can also add direct links like:
-
-- **Project Name** — one-line description. (link)
-- **Project Name** — one-line description. (link)
+- **Pulse AI**
+- **Agent Task service** 
+- **Baggage OneApp** 
+- **Assistive Device Services** 
+- **Bag Security** 
 
 ---
 
@@ -39,7 +39,7 @@ You can also add direct links like:
 
 - LinkedIn: https://www.linkedin.com/in/<your-handle>/
 - Email: <your-email>
-- Portfolio: <your-website>
+- Portfolio: Coming soon
 
 ---
 
