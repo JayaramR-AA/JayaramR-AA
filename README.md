@@ -1,19 +1,17 @@
 # Jayaram Ramachandran
 
-Full stack developer experienced in creating enterprise-grade software solutions. Currently focused on building **AI-powered airline baggage platform services**.
+Full stack developer.
+<br>
+Current focus :  **AI-powered airline baggage platform services**.
 
-**Based in:** Dallas/Fort Worth, Texas
+
+<img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="18" alt="Location" title="Location" /> Dallas/Fort Worth, Texas
 
 ---
 
 ## Core Skills
 
-- **AI/ML**
-- **Backend:** Java, Spring Boot
-- **Mobile:** Android, Kotlin
-- **Data & Platforms:** Databricks, Azure
-- **Messaging & Integration:** RabbitMQ, Azure Event Hubs
-- **Databases:** Couchbase / CBLite, Oracle SQL
+
 
 <p align="left">
   <!-- Claude Sonnet (Anthropic) -->
@@ -59,6 +57,12 @@ Full stack developer experienced in creating enterprise-grade software solutions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" alt="GitHub" title="GitHub" />
 </p>
 
+- **AI/ML**
+- **Backend:** Java, Spring Boot
+- **Mobile:** Android, Kotlin
+- **Data & Platforms:** Databricks, Azure
+- **Messaging & Integration:** RabbitMQ, Azure Event Hubs
+- **Databases:** Couchbase / CBLite, Oracle SQL
 ---
 
 ## What I’m working on
