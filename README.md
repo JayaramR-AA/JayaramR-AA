@@ -76,9 +76,9 @@ Full stack developer experienced in creating enterprise-grade software solutions
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/<your-handle>/
-- Email: <your-email>
-- Portfolio: Coming soon
+- LinkedIn: 
+- Email: 
+- Portfolio: 
 
 ---
 
